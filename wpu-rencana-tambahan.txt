@@ -1,5 +1,8 @@
 Rencana dalam aktivitas sehari-hari 
 -Berjualan online shop (baju, celana,sepatu,tas,dll)
--Survei harga pasar produk tersebut
+ * Baju trend milenial
+ * Celana 90 an
+ * Sepatu dance
+ * Tas local
  * Harga baju , celana, sepatu, tas
  * Survei di Mall Semarang
